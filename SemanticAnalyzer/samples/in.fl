@@ -1,0 +1,6 @@
+def fun()
+    "hello" << "world" <<  "world!"  << 33;
+end
+
+def main()
+end
